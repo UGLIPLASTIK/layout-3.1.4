@@ -1,0 +1,15 @@
+@media (max-width: 320px) {
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .header img:nth-child(3) {
+    margin-left: 15px;
+  }
+
+  main img {
+    width: 100%;
+  }
+}
