@@ -157,7 +157,7 @@ a {
 }
 
 .main__button::before {
-  content: url("/svg/icon-arrows.svg");
+  content: url(../svg/icon-arrows.svg);
   position: absolute;
   top: 2px;
   left: 10px;
