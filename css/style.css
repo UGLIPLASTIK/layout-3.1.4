@@ -90,7 +90,7 @@ a {
   cursor: pointer;
 }
 
-.navigation__menu {
+.main__menu {
   display: flex;
   padding: 0;
   margin: 0;
@@ -100,7 +100,7 @@ a {
   list-style-type: none;
 }
 
-.navigation__menu-item {
+.main__menu-item {
   box-sizing:border-box;
   font-size: 16px;
   color:#7E7E82;
@@ -111,11 +111,11 @@ a {
   cursor: pointer;
 }
 
-.navigation__menu-item:hover {
+.main__menu-item:hover {
   border-color:#B8FFEC;
 }
 
-.navigation__menu::-webkit-scrollbar {
+.main__menu::-webkit-scrollbar {
   width: 0;
 }
 
