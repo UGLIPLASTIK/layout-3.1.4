@@ -110,6 +110,7 @@
   margin-right: 7px;
 
   cursor: pointer;
+  background-color: white;
 }
 
 .aside__lang-btn:hover {
