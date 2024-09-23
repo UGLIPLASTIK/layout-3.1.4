@@ -39,6 +39,11 @@ a {
   color: #7E7E82;
 }
 
+button:hover {
+  opacity: 0.8;
+  transition: 0.3s;
+}
+
 .header {
   padding: 24px 16px 0;
   margin-bottom: 24px;
