@@ -66,10 +66,10 @@
   padding-bottom: 32px;
   cursor: pointer;
 }
-
+/* 
 .aside__menu-item:hover {
   color: #7E7E82;
-}
+} */
 
 .aside__menu-item:hover::before {
   content: "";
@@ -89,8 +89,16 @@
 }
 
 .aside__footer a {
-  color: black;
+  color: #1B1C21;
   display: block;
+}
+
+.aside__menu a {
+  color: #1B1C21;
+}
+
+.aside__menu a:hover {
+  color: #7E7E82;
 }
 
 .aside__footer .phone {
